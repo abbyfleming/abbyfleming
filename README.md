@@ -1,11 +1,9 @@
 ### Hi there! 👋
 
-I'm Abby. I'm a front-end engineer who believes in coding with compassion and strives to create a nurturing environment. 💖
+**I'm Abby. I'm a front-end engineer who believes in coding with compassion and strives to create a nurturing environment. 💖**
 
-Doing work that matters at [Ramsey Solutions](https://www.ramseyinhouse.com/). 🙌
+Currently looking for my next opportunity. ✨
 
-#### Elsewhere
+Previously at **[@RamseyInHouse](https://github.com/RamseyInHouse)** and **[@Provisions Group](https://github.com/provisions-group)**.
 
-- Musings on code and mental health on [Twitter](https://www.twitter.com/abbyleighanneco)
-- Connect on [LinkedIn](https://www.linkedin.com/in/abbyfleming/)
-- More [about me](https://www.abbywritescode.com/about)
+🍃 Learn more [about me](https://www.abbywritescode.com/about) or connect through [LinkedIn](https://www.linkedin.com/in/abbyfleming/).
