@@ -2,7 +2,7 @@
 
 **I'm Abby. I'm a front-end engineer who believes in coding with compassion and strives to create a nurturing environment. 💖**
 
-Currently looking for my next opportunity. ✨
+Currently at [FortyAU](https://fortyau.com/). 🔭
 
 Previously at **[@RamseyInHouse](https://github.com/RamseyInHouse)** and **[@Provisions Group](https://github.com/provisions-group)**.
 
